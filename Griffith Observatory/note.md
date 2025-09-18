@@ -1,4 +1,4 @@
-# Griffith Observatory
+# Griffith Observatory Trials
 
 <p float="left">
   <img src="./pics/Griffith Observatory.png" width="500"  align="top"/>
